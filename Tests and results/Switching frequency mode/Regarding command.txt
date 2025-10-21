@@ -1,0 +1,5 @@
+hackrf_operacake -m frequency -f A4:80:800 -f B4:1000:2500
+
+After testing different cases with this command we observed that if a frequency domain out of these ranges is specified the operacake will
+allocate the last port specified in the command for that frequency range.
+

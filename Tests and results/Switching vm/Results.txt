@@ -1,0 +1,206 @@
+foabi@foabi-VirtualBox:~/Desktop/resultswtich$ python3 'import subprocess'
+[2025-06-12 00:15:08.793503] >>> Switching to A4
+[2025-06-12 00:15:08.817895] <<< Switch to A4 complete
+[2025-06-12 00:15:10.320381] >>> Switching to B4
+[2025-06-12 00:15:10.336878] <<< Switch to B4 complete
+[2025-06-12 00:15:11.839946] >>> Switching to A4
+[2025-06-12 00:15:11.854535] <<< Switch to A4 complete
+[2025-06-12 00:15:13.355708] >>> Switching to B4
+[2025-06-12 00:15:13.369957] <<< Switch to B4 complete
+[2025-06-12 00:15:14.874297] >>> Switching to A4
+[2025-06-12 00:15:14.885969] <<< Switch to A4 complete
+[2025-06-12 00:15:16.387974] >>> Switching to B4
+[2025-06-12 00:15:16.401696] <<< Switch to B4 complete
+[2025-06-12 00:15:17.903413] >>> Switching to A4
+[2025-06-12 00:15:17.919358] <<< Switch to A4 complete
+[2025-06-12 00:15:19.420316] >>> Switching to B4
+[2025-06-12 00:15:19.434586] <<< Switch to B4 complete
+[2025-06-12 00:15:20.937409] >>> Switching to A4
+[2025-06-12 00:15:20.949364] <<< Switch to A4 complete
+[2025-06-12 00:15:22.452312] >>> Switching to B4
+[2025-06-12 00:15:22.471077] <<< Switch to B4 complete
+[2025-06-12 00:15:23.972937] >>> Switching to A4
+[2025-06-12 00:15:23.988807] <<< Switch to A4 complete
+[2025-06-12 00:15:25.490223] >>> Switching to B4
+[2025-06-12 00:15:25.507053] <<< Switch to B4 complete
+[2025-06-12 00:15:27.009003] >>> Switching to A4
+[2025-06-12 00:15:27.021166] <<< Switch to A4 complete
+[2025-06-12 00:15:28.528459] >>> Switching to B4
+[2025-06-12 00:15:28.551751] <<< Switch to B4 complete
+[2025-06-12 00:15:30.054433] >>> Switching to A4
+[2025-06-12 00:15:30.075768] <<< Switch to A4 complete
+[2025-06-12 00:15:31.577188] >>> Switching to B4
+[2025-06-12 00:15:31.590754] <<< Switch to B4 complete
+[2025-06-12 00:15:33.093567] >>> Switching to A4
+[2025-06-12 00:15:33.113226] <<< Switch to A4 complete
+[2025-06-12 00:15:34.616851] >>> Switching to B4
+[2025-06-12 00:15:34.636346] <<< Switch to B4 complete
+[2025-06-12 00:15:36.139026] >>> Switching to A4
+[2025-06-12 00:15:36.158803] <<< Switch to A4 complete
+[2025-06-12 00:15:37.661579] >>> Switching to B4
+[2025-06-12 00:15:37.675403] <<< Switch to B4 complete
+[2025-06-12 00:15:39.177740] >>> Switching to A4
+[2025-06-12 00:15:39.197269] <<< Switch to A4 complete
+[2025-06-12 00:15:40.699299] >>> Switching to B4
+[2025-06-12 00:15:40.715564] <<< Switch to B4 complete
+[2025-06-12 00:15:42.217867] >>> Switching to A4
+[2025-06-12 00:15:42.233601] <<< Switch to A4 complete
+[2025-06-12 00:15:43.735753] >>> Switching to B4
+[2025-06-12 00:15:43.754637] <<< Switch to B4 complete
+[2025-06-12 00:15:45.257068] >>> Switching to A4
+[2025-06-12 00:15:45.271654] <<< Switch to A4 complete
+[2025-06-12 00:15:46.775379] >>> Switching to B4
+[2025-06-12 00:15:46.788339] <<< Switch to B4 complete
+[2025-06-12 00:15:48.292162] >>> Switching to A4
+[2025-06-12 00:15:48.307353] <<< Switch to A4 complete
+[2025-06-12 00:15:49.810370] >>> Switching to B4
+[2025-06-12 00:15:49.825501] <<< Switch to B4 complete
+[2025-06-12 00:15:51.327721] >>> Switching to A4
+[2025-06-12 00:15:51.341408] <<< Switch to A4 complete
+[2025-06-12 00:15:52.843683] >>> Switching to B4
+[2025-06-12 00:15:52.860310] <<< Switch to B4 complete
+[2025-06-12 00:15:54.361598] >>> Switching to A4
+[2025-06-12 00:15:54.378001] <<< Switch to A4 complete
+[2025-06-12 00:15:55.880068] >>> Switching to B4
+[2025-06-12 00:15:55.893981] <<< Switch to B4 complete
+[2025-06-12 00:15:57.397628] >>> Switching to A4
+[2025-06-12 00:15:57.411219] <<< Switch to A4 complete
+[2025-06-12 00:15:58.913777] >>> Switching to B4
+[2025-06-12 00:15:58.924717] <<< Switch to B4 complete
+[2025-06-12 00:16:00.426847] >>> Switching to A4
+[2025-06-12 00:16:00.445623] <<< Switch to A4 complete
+[2025-06-12 00:16:01.947964] >>> Switching to B4
+[2025-06-12 00:16:01.964610] <<< Switch to B4 complete
+[2025-06-12 00:16:03.468605] >>> Switching to A4
+[2025-06-12 00:16:03.486322] <<< Switch to A4 complete
+[2025-06-12 00:16:04.990320] >>> Switching to B4
+[2025-06-12 00:16:05.011040] <<< Switch to B4 complete
+[2025-06-12 00:16:06.514172] >>> Switching to A4
+[2025-06-12 00:16:06.530051] <<< Switch to A4 complete
+[2025-06-12 00:16:08.076407] >>> Switching to B4
+[2025-06-12 00:16:08.095998] <<< Switch to B4 complete
+[2025-06-12 00:16:09.597054] >>> Switching to A4
+[2025-06-12 00:16:09.611197] <<< Switch to A4 complete
+[2025-06-12 00:16:11.112528] >>> Switching to B4
+[2025-06-12 00:16:11.125735] <<< Switch to B4 complete
+[2025-06-12 00:16:12.627533] >>> Switching to A4
+[2025-06-12 00:16:12.642758] <<< Switch to A4 complete
+[2025-06-12 00:16:14.145598] >>> Switching to B4
+[2025-06-12 00:16:14.158779] <<< Switch to B4 complete
+[2025-06-12 00:16:15.664584] >>> Switching to A4
+[2025-06-12 00:16:15.677138] <<< Switch to A4 complete
+[2025-06-12 00:16:17.180040] >>> Switching to B4
+[2025-06-12 00:16:17.192693] <<< Switch to B4 complete
+[2025-06-12 00:16:18.694550] >>> Switching to A4
+[2025-06-12 00:16:18.708572] <<< Switch to A4 complete
+[2025-06-12 00:16:20.211634] >>> Switching to B4
+[2025-06-12 00:16:20.226544] <<< Switch to B4 complete
+[2025-06-12 00:16:21.729045] >>> Switching to A4
+[2025-06-12 00:16:21.745457] <<< Switch to A4 complete
+[2025-06-12 00:16:23.247002] >>> Switching to B4
+[2025-06-12 00:16:23.264154] <<< Switch to B4 complete
+[2025-06-12 00:16:24.764850] >>> Switching to A4
+[2025-06-12 00:16:24.781609] <<< Switch to A4 complete
+[2025-06-12 00:16:26.283841] >>> Switching to B4
+[2025-06-12 00:16:26.299840] <<< Switch to B4 complete
+[2025-06-12 00:16:27.802824] >>> Switching to A4
+[2025-06-12 00:16:27.816830] <<< Switch to A4 complete
+[2025-06-12 00:16:29.318633] >>> Switching to B4
+[2025-06-12 00:16:29.337700] <<< Switch to B4 complete
+[2025-06-12 00:16:30.841451] >>> Switching to A4
+[2025-06-12 00:16:30.863347] <<< Switch to A4 complete
+[2025-06-12 00:16:32.371273] >>> Switching to B4
+[2025-06-12 00:16:32.392011] <<< Switch to B4 complete
+[2025-06-12 00:16:33.894352] >>> Switching to A4
+[2025-06-12 00:16:33.908800] <<< Switch to A4 complete
+[2025-06-12 00:16:35.411605] >>> Switching to B4
+[2025-06-12 00:16:35.432753] <<< Switch to B4 complete
+[2025-06-12 00:16:36.934428] >>> Switching to A4
+[2025-06-12 00:16:36.948639] <<< Switch to A4 complete
+[2025-06-12 00:16:38.450044] >>> Switching to B4
+[2025-06-12 00:16:38.469520] <<< Switch to B4 complete
+[2025-06-12 00:16:39.970987] >>> Switching to A4
+[2025-06-12 00:16:39.991757] <<< Switch to A4 complete
+[2025-06-12 00:16:41.494590] >>> Switching to B4
+[2025-06-12 00:16:41.508136] <<< Switch to B4 complete
+[2025-06-12 00:16:43.010334] >>> Switching to A4
+[2025-06-12 00:16:43.027659] <<< Switch to A4 complete
+[2025-06-12 00:16:44.530807] >>> Switching to B4
+[2025-06-12 00:16:44.546204] <<< Switch to B4 complete
+[2025-06-12 00:16:46.048488] >>> Switching to A4
+[2025-06-12 00:16:46.061975] <<< Switch to A4 complete
+[2025-06-12 00:16:47.565912] >>> Switching to B4
+[2025-06-12 00:16:47.583682] <<< Switch to B4 complete
+[2025-06-12 00:16:49.086301] >>> Switching to A4
+[2025-06-12 00:16:49.107835] <<< Switch to A4 complete
+[2025-06-12 00:16:50.610370] >>> Switching to B4
+[2025-06-12 00:16:50.628272] <<< Switch to B4 complete
+[2025-06-12 00:16:52.134308] >>> Switching to A4
+[2025-06-12 00:16:52.158325] <<< Switch to A4 complete
+[2025-06-12 00:16:53.662512] >>> Switching to B4
+[2025-06-12 00:16:53.677382] <<< Switch to B4 complete
+[2025-06-12 00:16:55.180607] >>> Switching to A4
+[2025-06-12 00:16:55.196622] <<< Switch to A4 complete
+[2025-06-12 00:16:56.698579] >>> Switching to B4
+[2025-06-12 00:16:56.714174] <<< Switch to B4 complete
+[2025-06-12 00:16:58.221736] >>> Switching to A4
+[2025-06-12 00:16:58.240684] <<< Switch to A4 complete
+[2025-06-12 00:16:59.742777] >>> Switching to B4
+[2025-06-12 00:16:59.756543] <<< Switch to B4 complete
+[2025-06-12 00:17:01.259076] >>> Switching to A4
+[2025-06-12 00:17:01.271740] <<< Switch to A4 complete
+[2025-06-12 00:17:02.774586] >>> Switching to B4
+[2025-06-12 00:17:02.787913] <<< Switch to B4 complete
+[2025-06-12 00:17:04.289351] >>> Switching to A4
+[2025-06-12 00:17:04.310023] <<< Switch to A4 complete
+[2025-06-12 00:17:05.812833] >>> Switching to B4
+[2025-06-12 00:17:05.826307] <<< Switch to B4 complete
+[2025-06-12 00:17:07.330097] >>> Switching to A4
+[2025-06-12 00:17:07.343237] <<< Switch to A4 complete
+[2025-06-12 00:17:08.845574] >>> Switching to B4
+[2025-06-12 00:17:08.862878] <<< Switch to B4 complete
+[2025-06-12 00:17:10.366423] >>> Switching to A4
+[2025-06-12 00:17:10.379057] <<< Switch to A4 complete
+[2025-06-12 00:17:11.880864] >>> Switching to B4
+[2025-06-12 00:17:11.895422] <<< Switch to B4 complete
+[2025-06-12 00:17:13.398620] >>> Switching to A4
+[2025-06-12 00:17:13.411880] <<< Switch to A4 complete
+[2025-06-12 00:17:14.914401] >>> Switching to B4
+[2025-06-12 00:17:14.926208] <<< Switch to B4 complete
+[2025-06-12 00:17:16.429920] >>> Switching to A4
+[2025-06-12 00:17:16.444474] <<< Switch to A4 complete
+[2025-06-12 00:17:17.949348] >>> Switching to B4
+[2025-06-12 00:17:17.963281] <<< Switch to B4 complete
+[2025-06-12 00:17:19.464356] >>> Switching to A4
+[2025-06-12 00:17:19.479892] <<< Switch to A4 complete
+[2025-06-12 00:17:20.982306] >>> Switching to B4
+[2025-06-12 00:17:20.999292] <<< Switch to B4 complete
+[2025-06-12 00:17:22.501551] >>> Switching to A4
+[2025-06-12 00:17:22.516253] <<< Switch to A4 complete
+[2025-06-12 00:17:24.018402] >>> Switching to B4
+[2025-06-12 00:17:24.032538] <<< Switch to B4 complete
+[2025-06-12 00:17:25.533501] >>> Switching to A4
+[2025-06-12 00:17:25.552493] <<< Switch to A4 complete
+[2025-06-12 00:17:27.053500] >>> Switching to B4
+[2025-06-12 00:17:27.071369] <<< Switch to B4 complete
+[2025-06-12 00:17:28.572753] >>> Switching to A4
+[2025-06-12 00:17:28.585798] <<< Switch to A4 complete
+[2025-06-12 00:17:30.088151] >>> Switching to B4
+[2025-06-12 00:17:30.102080] <<< Switch to B4 complete
+[2025-06-12 00:17:31.604530] >>> Switching to A4
+[2025-06-12 00:17:31.619713] <<< Switch to A4 complete
+[2025-06-12 00:17:33.125430] >>> Switching to B4
+[2025-06-12 00:17:33.139586] <<< Switch to B4 complete
+[2025-06-12 00:17:34.641161] >>> Switching to A4
+[2025-06-12 00:17:34.661255] <<< Switch to A4 complete
+[2025-06-12 00:17:36.164689] >>> Switching to B4
+[2025-06-12 00:17:36.186953] <<< Switch to B4 complete
+[2025-06-12 00:17:37.688428] >>> Switching to A4
+[2025-06-12 00:17:37.704730] <<< Switch to A4 complete
+[2025-06-12 00:17:39.207238] >>> Switching to B4
+[2025-06-12 00:17:39.222605] <<< Switch to B4 complete
+
+--- Latency statistics over all switches ---
+Max latency: 24.39 ms
+Min latency: 10.94 ms
+Average latency: 16.17 ms
